@@ -7,7 +7,7 @@ This repository contains code for performing Named Entity Recognition (NER) usin
 ### Prerequisites
 
 - Python 3.x
-- SpaCy library (`spacy`) (https://spacy.io/models/xx)
+- [SpaCy library (`spacy`) ](https://spacy.io/models/xx)
 
 You can install the required dependencies using the following command:
 
